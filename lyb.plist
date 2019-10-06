@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://huanqiu8989.com/mayibao.ipa</string>
+					<string>http://huanqiu8989.com/lemaibao.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://huanqiu8989.com/mayibao.png</string>
+					<string>http://huanqiu8989.com/lemaibao.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://huanqiu8989.com/mayibao.png</string>
+					<string>http://huanqiu8989.com/lemaibao.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,9 +39,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>蚂蚁宝</string>
+				<string>乐买宝</string>
 				<key>title</key>
-				<string>蚂蚁宝</string>
+				<string>乐买宝</string>
 			</dict>
 		</dict>
 	</array>
